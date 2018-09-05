@@ -6,7 +6,6 @@
       <class name="Verify.DemoLogin">
         <methods>
           <include name="ManagerUser"/>
-          <include name="ClientAdminUser"/>
         </methods>
       </class> <!-- Verify.DemoLogin -->
     </classes>
